@@ -1,0 +1,39 @@
+h1 {
+	color:#9D8189;
+}
+
+h1{
+	font-family:sans-serif;
+}
+
+p{
+	color: #9D8189;
+	size: 20px
+}
+
+h2{color: #FFE5D9;
+	size 50px;
+	background: #9D8189
+}
+
+img{width:300px;right: 500px;
+}
+
+ul{color: #9D8189}
+
+h1{background-color: #FFE5D9;
+	text-align: center;
+	font-size: 90px
+}
+
+a{text-decoration: none;
+	border: 2px solid #F4ACB7;
+	color: #F4ACB7;
+	background-color: #FFE5D9;
+	padding: 2px;
+	margin: 20px;
+	border-radius: 8px;
+	box-shadow: 4px 4px 2px 0px; 
+	margin: 0 auto;
+	width: 30%;
+}
